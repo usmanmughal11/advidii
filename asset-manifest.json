@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/advidii/static/css/main.3512705d.css",
+    "main.js": "/advidii/static/js/main.a77a3cbc.js",
+    "static/js/787.73a8f93e.chunk.js": "/advidii/static/js/787.73a8f93e.chunk.js",
+    "static/media/banner.jpg": "/advidii/static/media/banner.859e72af430878b451cb.jpg",
+    "static/media/fibraone-heavyit-webfont.woff": "/advidii/static/media/fibraone-heavyit-webfont.f86d720a5ea03a7c5152.woff",
+    "static/media/fibraone-semiboldit-webfont.woff": "/advidii/static/media/fibraone-semiboldit-webfont.2eac0f56da576708c8ee.woff",
+    "static/media/fibraone-lightit-webfont.woff": "/advidii/static/media/fibraone-lightit-webfont.e7082c92ad09c66bcc33.woff",
+    "static/media/fibraone-boldit-webfont.woff": "/advidii/static/media/fibraone-boldit-webfont.4e759c4c86453ddbf851.woff",
+    "static/media/fibraone-regularit-webfont.woff": "/advidii/static/media/fibraone-regularit-webfont.081cb8254f682b74b976.woff",
+    "static/media/fibraone-heavy-webfont.woff": "/advidii/static/media/fibraone-heavy-webfont.9697ae24f387ea0680f6.woff",
+    "static/media/fibraone-bold-webfont.woff": "/advidii/static/media/fibraone-bold-webfont.ff5e4d2cb221cb306953.woff",
+    "static/media/fibraone-semibold-webfont.woff": "/advidii/static/media/fibraone-semibold-webfont.824e70c728e1a7a251c2.woff",
+    "static/media/fibraone-light-webfont.woff": "/advidii/static/media/fibraone-light-webfont.2dd9f68508c801eb069a.woff",
+    "static/media/fibraone-thinit-webfont.woff": "/advidii/static/media/fibraone-thinit-webfont.851ca42364f112b77f58.woff",
+    "static/media/fibraone-regular-webfont.woff": "/advidii/static/media/fibraone-regular-webfont.88a29ac0e92e24077bc8.woff",
+    "static/media/fibraone-thin-webfont.woff": "/advidii/static/media/fibraone-thin-webfont.cd3fbdd1a1a896186d6a.woff",
+    "static/media/logo.svg": "/advidii/static/media/logo.d00d5e1f772d08a4233cff65173a1a03.svg",
+    "static/media/fibraone-heavyit-webfont.woff2": "/advidii/static/media/fibraone-heavyit-webfont.fd8cae1a26b0944012b9.woff2",
+    "static/media/fibraone-semiboldit-webfont.woff2": "/advidii/static/media/fibraone-semiboldit-webfont.45357a57d5e358138f62.woff2",
+    "static/media/fibraone-boldit-webfont.woff2": "/advidii/static/media/fibraone-boldit-webfont.7879d10420723e572502.woff2",
+    "static/media/fibraone-heavy-webfont.woff2": "/advidii/static/media/fibraone-heavy-webfont.087195cd2995123f5b98.woff2",
+    "static/media/fibraone-lightit-webfont.woff2": "/advidii/static/media/fibraone-lightit-webfont.7dba8a36b692e109bcf5.woff2",
+    "static/media/fibraone-regularit-webfont.woff2": "/advidii/static/media/fibraone-regularit-webfont.947f6c56b4d062052b17.woff2",
+    "static/media/fibraone-bold-webfont.woff2": "/advidii/static/media/fibraone-bold-webfont.54ef49485dc9244c3ea5.woff2",
+    "static/media/fibraone-semibold-webfont.woff2": "/advidii/static/media/fibraone-semibold-webfont.336268e2c4953329c78c.woff2",
+    "static/media/fibraone-light-webfont.woff2": "/advidii/static/media/fibraone-light-webfont.081bf1d999ed3e91e543.woff2",
+    "static/media/fibraone-thinit-webfont.woff2": "/advidii/static/media/fibraone-thinit-webfont.a42fca58e9a2bb09e1fe.woff2",
+    "static/media/fibraone-regular-webfont.woff2": "/advidii/static/media/fibraone-regular-webfont.fc947b3f8dd9d9874192.woff2",
+    "static/media/fibraone-thin-webfont.woff2": "/advidii/static/media/fibraone-thin-webfont.3ddcdec0fd1fbd41120d.woff2",
+    "index.html": "/advidii/index.html",
+    "main.3512705d.css.map": "/advidii/static/css/main.3512705d.css.map",
+    "main.a77a3cbc.js.map": "/advidii/static/js/main.a77a3cbc.js.map",
+    "787.73a8f93e.chunk.js.map": "/advidii/static/js/787.73a8f93e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3512705d.css",
+    "static/js/main.a77a3cbc.js"
+  ]
+}
