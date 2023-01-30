@@ -1,10 +1,91 @@
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_bold/fibraone-bold-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_bold/fibraone-bold-webfont.woff') format('woff');
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_bolditalic/fibraone-boldit-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_bolditalic/fibraone-boldit-webfont.woff') format('woff');
+  font-weight: 600;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_heavy/fibraone-heavy-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_heavy/fibraone-heavy-webfont.woff') format('woff');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_heavyitalic/fibraone-heavyit-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_heavyitalic/fibraone-heavyit-webfont.woff') format('woff');
+  font-weight: 700;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_light/fibraone-light-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_light/fibraone-light-webfont.woff') format('woff');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_lightitalic/fibraone-lightit-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_lightitalic/fibraone-lightit-webfont.woff') format('woff');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_regular/fibraone-regular-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_regular/fibraone-regular-webfont.woff') format('woff');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_regularitalic/fibraone-regularit-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_regularitalic/fibraone-regularit-webfont.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_semibold/fibraone-semibold-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_semibold/fibraone-semibold-webfont.woff') format('woff');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_semibolditalic/fibraone-semiboldit-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_semibolditalic/fibraone-semiboldit-webfont.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_thin/fibraone-thin-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_thin/fibraone-thin-webfont.woff') format('woff');
+  font-weight: 200;
+}
+@font-face {
+  font-family: 'fibraone';
+  src: url('./assets/fonts/fibraone_thinitalic/fibraone-thinit-webfont.woff2') format('woff2'),
+       url('./assets/fonts/fibraone_thinitalic/fibraone-thinit-webfont.woff') format('woff');
+  font-weight: 200;
+  font-style: italic;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'fibraone', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+    font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #fff;
 }
 
 code {
