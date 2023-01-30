@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/advidii/static/css/main.3512705d.css",
-    "main.js": "/advidii/static/js/main.a77a3cbc.js",
+    "main.js": "/advidii/static/js/main.73781288.js",
     "static/js/787.73a8f93e.chunk.js": "/advidii/static/js/787.73a8f93e.chunk.js",
     "static/media/banner.jpg": "/advidii/static/media/banner.859e72af430878b451cb.jpg",
     "static/media/fibraone-heavyit-webfont.woff": "/advidii/static/media/fibraone-heavyit-webfont.f86d720a5ea03a7c5152.woff",
@@ -31,11 +31,11 @@
     "static/media/fibraone-thin-webfont.woff2": "/advidii/static/media/fibraone-thin-webfont.3ddcdec0fd1fbd41120d.woff2",
     "index.html": "/advidii/index.html",
     "main.3512705d.css.map": "/advidii/static/css/main.3512705d.css.map",
-    "main.a77a3cbc.js.map": "/advidii/static/js/main.a77a3cbc.js.map",
+    "main.73781288.js.map": "/advidii/static/js/main.73781288.js.map",
     "787.73a8f93e.chunk.js.map": "/advidii/static/js/787.73a8f93e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3512705d.css",
-    "static/js/main.a77a3cbc.js"
+    "static/js/main.73781288.js"
   ]
 }
