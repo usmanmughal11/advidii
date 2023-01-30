@@ -15,24 +15,24 @@ function App() {
       </header>
       <div className="subscription-container">
         <div className="subscription-form">
-          <a href="javascript:;" className="back-btn">
+          <a href="#" className="back-btn">
             &lt;&nbsp;&nbsp;Back
           </a>
           <h1>To subscribe in 3 steps</h1>
           <div className="subscription-form-steps">
             <ul>
               <li className="completed">
-                <a href="javascript:;">
+                <a href="#">
                   <span>1</span>term
                 </a>
               </li>
               <li className="active">
-                <a href="javascript:;">
+                <a href="#">
                   <span>2</span>Subscription
                 </a>
               </li>
               <li>
-                <a href="javascript:;">
+                <a href="#">
                   <span>3</span>Data & Payment
                 </a>
               </li>
@@ -53,7 +53,7 @@ function App() {
                 <input
                   type="radio"
                   id="monthly-tab"
-                  checked
+                  defaultChecked={true}
                   name="check-substitution-2"
                 />
                 <label htmlFor="monthly-tab">Monthly</label>
@@ -64,7 +64,7 @@ function App() {
             <h2>Subscription</h2>
             <div className="subscription-type-options">
               <div>
-                <input type="radio" id="type-1" name="radio-group" checked />
+                <input type="radio" id="type-1" name="radio-group" defaultChecked={true} />
                 <label htmlFor="type-1">Unlimited 69 Chf</label>
               </div>
               <div>
